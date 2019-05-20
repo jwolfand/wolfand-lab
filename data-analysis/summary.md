@@ -4,4 +4,4 @@
 
 
 # Plots
-- Color advice for plots at [ColorBrewer] (http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+- Color advice for plots at [ColorBrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
