@@ -1,4 +1,5 @@
 # Writing habits
+Writing is research! Establishing a regular writing habit is essential. 
 
 # Publishing
 ## Authorship
