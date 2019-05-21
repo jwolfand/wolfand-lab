@@ -1,2 +1,2 @@
 # research-resources
-Repository for resources related to academic research, advising, and job searches. 
+Repository for resources related to academic research, advising, and job searches. This is a work in progress...
