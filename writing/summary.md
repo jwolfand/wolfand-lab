@@ -2,10 +2,18 @@
 Writing is research! Establishing a regular writing habit is essential. 
 
 # Publishing
+
 ## Authorship
 - [Paper by Donald Kennedy](https://doresearch.stanford.edu/policies/research-policy-handbook/conduct-research/academic-authorship#anchor-2295)
 - Kosslyn, 2002. [Authorship Criteria](https://kosslynlab.fas.harvard.edu/files/kosslynlab/files/authorship_criteria_nov02.pdf)
+
 ## Submission
+Before you submit your paper:
+- What journal is the best fit? Where are other papers that you cite published?
+- Review guidelines for authors
+- Identify potential reviewers
+- Submit and wait!
+
 ## Review
 
 # Timely reviews
