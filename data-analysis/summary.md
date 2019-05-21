@@ -7,5 +7,6 @@ Does your data have a lot of non-detects? DO NOT substitute for 1/2 the detectio
 - https://practicalstats.com/training/nada.html
 - Helsel, D.R. (2012) Statistics for censored environmental data using Minitab and R (2nd edition)
 - https://cran.r-project.org/web/packages/NADA/NADA.pdf
+- https://cran.r-project.org/web/packages/EnvStats/index.html
 
 # Statistical significance
