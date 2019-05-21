@@ -3,6 +3,7 @@ Writing is research! Establishing a regular writing habit is essential.
 
 # Publishing
 ## Authorship
+-[Paper by Donald Kennedy](https://doresearch.stanford.edu/policies/research-policy-handbook/conduct-research/academic-authorship#anchor-2295)
 ## Submission
 ## Review
 
