@@ -1,5 +1,11 @@
-# Writing habits
+# Writing
+## Habits
 Writing is research! Establishing a regular writing habit is essential. 
+
+## Overall
+- Mensh, B. 2017. [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+- Bourne, P.E. 2006 [Ten simple rules for getting grants](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020012)
+- Yuan, K. 2016. [Ten simple rules for writing a postdoctoral fellowship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004934)
 
 # Publishing
 
