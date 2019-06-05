@@ -2,12 +2,13 @@
 ## Habits
 Writing is research! Establishing a regular writing habit is essential. 
 
-## Overall
+## Research papers
 - Mensh, B. 2017. [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+
+## Grants
 - Bourne, P.E. 2006 [Ten simple rules for getting grants](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020012)
 - Yuan, K. 2016. [Ten simple rules for writing a postdoctoral fellowship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004934)
-
-# Publishing
+- [Open source grant exampples](https://www.ogrants.org/)
 
 ## Authorship
 - Kosslyn, S.M. 2002. [Authorship Criteria](https://kosslynlab.fas.harvard.edu/files/kosslynlab/files/authorship_criteria_nov02.pdf)
