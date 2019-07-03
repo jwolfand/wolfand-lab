@@ -4,7 +4,7 @@ Writing is research! Establishing a regular writing habit is essential. If you a
 
 ## Research papers
 - Mensh, B. 2017. [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
-- Gewin, G. 2018. [How to write a first-class paper]https://www.nature.com/articles/d41586-018-02404-4
+- Gewin, G. 2018. [How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4)
 - [Writing Scientific Papers](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/118519636)
 
 ## Grants
