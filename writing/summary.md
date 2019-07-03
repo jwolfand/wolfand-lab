@@ -5,6 +5,7 @@ Writing is research! Establishing a regular writing habit is essential. If you a
 ## Research papers
 - Mensh, B. 2017. [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - Gewin, G. 2018. [How to write a first-class paper] https://www.nature.com/articles/d41586-018-02404-4
+- [Writing Scientific Papers](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/118519636)
 
 ## Grants
 - Bourne, P.E. 2006 [Ten simple rules for getting grants](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020012)
@@ -14,6 +15,7 @@ Writing is research! Establishing a regular writing habit is essential. If you a
 ## Authorship
 - Kosslyn, S.M. 2002. [Authorship Criteria](https://kosslynlab.fas.harvard.edu/files/kosslynlab/files/authorship_criteria_nov02.pdf)
 - Kennedy, D. 1985. [Academic Authorship](https://doresearch.stanford.edu/policies/research-policy-handbook/conduct-research/academic-authorship#anchor-2295)
+
 
 ## Submission
 Before you submit your paper:
