@@ -7,3 +7,4 @@ I highly recommend you install a reference manager right away.
 - Zotero
 
 # Literature Review
+...you need to do one! resources coming...
