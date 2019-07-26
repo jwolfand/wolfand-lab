@@ -8,3 +8,14 @@ I highly recommend you install a reference manager right away.
 
 # Literature Review
 ...you need to do one! resources coming...
+
+## Open science
+ - Bakker (2019). [Data-Sharing Requires Script-Sharing](http://doi.org/10.1111/gwat.12852). _A compelling argument for sharing not just data, but scripts._
+ - Chief et al. (2016). [Engaging Southwestern Tribes in Sustainable Water Resources Topics and Management](http://doi.org/10.3390/w8080350). _Essential reading for developing collaborative research with Indigenous communities (and relevant to collaborative research with any stakeholder group)._
+ - Flint et al. (2017). [Data Management Dimensions of Social Water Science: The iUTAH Experience](http://doi.org/10.1111/1752-1688.12568). _Excellent example of sharing diverse datasets associated with a project._
+ - Lowndes et al. (2017). [Our path to better science in less time using open data science tools](http://doi.org/10.1038/s41559-017-0160). _Example of a successful reproducible worklow for a large collaborative project._
+ - Stall et al. (2017). [Enabling FAIR Data Across the Earth and Space Sciences](http://doi.org/10.1029/2017EO088425). _[AGU](http://agu.org/) is my primary professional affiliation and these are their data standards (which are widely used)._
+ 
+## Advancing your career
+ - [Creating a research brand](https://science.sciencemag.org/content/349/6249/758) by Jeff McDonnell.
+ - [The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771) by Martin Schwartz.
