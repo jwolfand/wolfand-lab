@@ -1,4 +1,4 @@
-# research-resources
+# Research Resources
 Repository for resources related to academic research, advising, and job searches. This is a work in progress...
 
 ## References
