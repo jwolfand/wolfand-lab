@@ -7,7 +7,7 @@ I highly recommend you install a reference manager right away.
 - Zotero
 
 # Literature Review
-...you need to do one! resources coming...
+- Pacheco-Vega, R. 2016. [Literature Reviews](http://www.raulpacheco.org/resources/literature-reviews/)
 
 ## Open science
  - Bakker (2019). [Data-Sharing Requires Script-Sharing](http://doi.org/10.1111/gwat.12852). _A compelling argument for sharing not just data, but scripts._
