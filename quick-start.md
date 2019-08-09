@@ -1,5 +1,5 @@
 # Welcome
-Welcome to academic research!
+Welcome to academic research! It is nothing like you've done in class - little guidance, no right answers, which is why I love it. I hope you learn to love it too. 
 
 # Reference Manager
 I highly recommend you install a reference manager right away. I use [Mendeley](https://www.mendeley.com/?interaction_required=true), but there are others. 
