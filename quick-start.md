@@ -2,9 +2,7 @@
 Welcome to academic research!
 
 # Reference Manager
-I highly recommend you install a reference manager right away. 
-- Mendeley
-- Zotero
+I highly recommend you install a reference manager right away. I use [Mendeley](https://www.mendeley.com/?interaction_required=true), but there are others. 
 
 # Literature Review
 - Pacheco-Vega, R. 2016. [Literature Reviews](http://www.raulpacheco.org/resources/literature-reviews/)
