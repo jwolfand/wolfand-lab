@@ -2,9 +2,6 @@
 ## Habits
 Writing is research! Establishing a regular writing habit is essential. If you are reading this, you should probably be writing instead. 
 
-## Literature Reviews
-- Pacheco-Vega, R. 2016. [Literature Reviews](http://www.raulpacheco.org/resources/literature-reviews/)
-
 ## Research papers
 - Mensh, B. 2017. [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - Gewin, G. 2018. [How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4)
