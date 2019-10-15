@@ -1,5 +1,7 @@
 # Statistics
-- Kopf, D. (2018). [These Are the Best Books for Learning Modern Statistics](https://getpocket.com/explore/item/these-are-the-best-books-for-learning-modern-statistics-and-they-re-all-free)
+- Kopf, D. (2018). [These Are the Best Books for Learning Modern Statistics](https://getpocket.com/explore/item/these-are-the-best-books-for-learning-modern-statistics-and-they-re-all-free). _Two free books useful in learning statistics._
+  - James et al. (2017). [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+  - Hastie et al. (2017). [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) 
 
 # Data visualization and plots
 - Color advice for plots at [ColorBrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) or a [list of 20 simple colors](https://sashat.me/2017/01/11/list-of-20-simple-distinct-colors/)_A useful color palette - make sure to explore the 'accessibility' options at the top._
