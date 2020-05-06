@@ -1,7 +1,7 @@
 # Welcome
 Welcome to academic research! It is nothing like you've done in class - little guidance, no right answers, which is why I love it. I hope you learn to love it too. 
 
-# First Things First
+## Research Contract
 If you haven't already, you should read and complete the research contract. This contract helps both me and you set guidelines and expectations for your research. 
 
 ## Reference Manager
