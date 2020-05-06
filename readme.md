@@ -1,5 +1,5 @@
-# Research Resources
-Repository for resources related to academic research, advising, and job searches. This is a work in progress...
+# Wolfand Lab
+Welcome to the Wolfand lab! This is a repository for documents related to my lab group include policies and resources. It is a work in progress!
 
 ## References
 While some of this is mine, much of it is borrowed by others in the scientific community. Specifically:
