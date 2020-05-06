@@ -17,5 +17,5 @@
 ## GIS
 - ArcTutor
 
-## Matlab
+## MATLAB
 
