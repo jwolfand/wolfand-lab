@@ -7,7 +7,7 @@ If you haven't already, you should read and complete the research contract. This
 ## Reference Manager
 I highly recommend you install a reference manager right away. I use [Mendeley](https://www.mendeley.com/?interaction_required=true), but there are others. 
 
-Many academic articles are behind paywalls. At UP, we have paid subscriptions to many journals. I recommend you connect your [Google Scholar settings to connect to Clark Library](https://libguides.up.edu/remote/resources)
+Many academic articles are behind paywalls. At UP, we have paid subscriptions to many journals. To access journal articles when you are not connected to the UP network, I recommend you connect your [Google Scholar settings to connect to Clark Library](https://libguides.up.edu/remote/resources)
 
 ## Document Storage
 We will primarily use cloud-based storage for documents, likely OneDrive.
