@@ -15,7 +15,5 @@
 
 
 ## GIS
-- ArcTutor
-
-## MATLAB
+- ArcTutor & Learn ArcGIS -- more info coming soon. 
 
