@@ -1,3 +1,3 @@
 # Summary
-Resources for ArcGIS
+Resources for ArcGIS - under construction. 
 
