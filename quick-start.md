@@ -14,7 +14,7 @@ We will primarily use cloud-based storage for documents such as OneDrive/Google 
 
 ## Literature Review
 Conducting a literature review on your topic is typically the first step in research. This review can take different shapes but it is essential to have an understanding what has been done in the field and what questions are still out there. 
-- Pacheco-Vega, R. 2016. [Literature Reviews](http://www.raulpacheco.org/resources/literature-reviews/)
+- Pacheco-Vega, R. (2016). [Literature Reviews](http://www.raulpacheco.org/resources/literature-reviews/). _Several blog posts about the literature review process, including the AIC (Abstract, Intro, Conclusion) reading method._ 
 
 # Open Science
 I am committed to open science research -- meaning taking every step to ensure our work is openly shared and available as much as possible. Here are a few resources.
