@@ -7,6 +7,7 @@
 - [USGS resources on R](https://owi.usgs.gov/R/)
 - Lovelace et al. 2019. [Geocomputation with R](https://geocompr.robinlovelace.net/)
 - Grolemund and Wickham. 2017. [R for data science](https://r4ds.had.co.nz/)
+- Irizarry. 2020. [Introduction to Data Science](https://rafalab.github.io/dsbook/)
 - [PRSim](https://CRAN.R-project.org/package=PRSim): A package for stochastic simulation of streamflow time series using phase randomization. 
 - [Style Guide](http://adv-r.had.co.nz/Style.html#undefined)
 - Useful packages
