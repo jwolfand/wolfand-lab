@@ -14,7 +14,13 @@ We will primarily use cloud-based storage for documents such as OneDrive/Google 
 
 ## Literature Review
 Conducting a literature review on your topic is typically the first step in research. This review can take different shapes but it is essential to have an understanding what has been done in the field and what questions are still out there. 
+
 - Pacheco-Vega, R. (2016). [Literature Reviews](http://www.raulpacheco.org/resources/literature-reviews/). _Several blog posts about the literature review process, including the AIC (Abstract, Intro, Conclusion) reading method._ 
+
+For a formal literature review, in addition to Google Scholar, you may want to search the following databases (you will need your UP username/password):
+- [UP Database](https://library.up.edu/)
+- [Engineering Village](https://login.ezproxy-eres.up.edu/login?url=http://www.engineeringvillage.com)
+- [GreenFILE](https://web-b-ebscohost-com.ezproxy-eres.up.edu/ehost/search/advanced?vid=0&sid=b7d86d33-be90-401f-b5b0-b19e6b58dd34%40pdc-v-sessmgr01)
 
 # Open Science
 I am committed to open science research -- meaning taking every step to ensure our work is openly shared and available as much as possible. Here are a few resources.
