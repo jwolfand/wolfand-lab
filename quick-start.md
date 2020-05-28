@@ -22,6 +22,8 @@ For a formal literature review, in addition to Google Scholar, you may want to s
 - [Engineering Village](https://login.ezproxy-eres.up.edu/login?url=http://www.engineeringvillage.com)
 - [GreenFILE](https://web-b-ebscohost-com.ezproxy-eres.up.edu/ehost/search/advanced?vid=0&sid=b7d86d33-be90-401f-b5b0-b19e6b58dd34%40pdc-v-sessmgr01)
 
+To check if a journal is peer-reviewed, you can use [Ulrich's Web](https://login.ezproxy-eres.up.edu/login?url=https://ulrichsweb.serialssolutions.com/)
+
 # Open Science
 I am committed to open science research -- meaning taking every step to ensure our work is openly shared and available as much as possible. Here are a few resources.
  - Bakker (2019). [Data-Sharing Requires Script-Sharing](http://doi.org/10.1111/gwat.12852). _A compelling argument for sharing not just data, but scripts._
