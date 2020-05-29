@@ -25,7 +25,7 @@ For a formal literature review, in addition to Google Scholar, you may want to s
 To check if a journal is peer-reviewed, you can use [Ulrich's Web](https://login.ezproxy-eres.up.edu/login?url=https://ulrichsweb.serialssolutions.com/)
 
 # Open Science
-I am committed to open science research -- meaning taking every step to ensure our work is openly shared and available as much as possible. Here are a few resources.
+I am committed to working towards open science research -- meaning taking every step to ensure our work is openly shared and available as much as possible. Here are a few resources.
  - Bakker (2019). [Data-Sharing Requires Script-Sharing](http://doi.org/10.1111/gwat.12852). _A compelling argument for sharing not just data, but scripts._
  - Chief et al. (2016). [Engaging Southwestern Tribes in Sustainable Water Resources Topics and Management](http://doi.org/10.3390/w8080350). _Essential reading for developing collaborative research with Indigenous communities (and relevant to collaborative research with any stakeholder group)._
  - Flint et al. (2017). [Data Management Dimensions of Social Water Science: The iUTAH Experience](http://doi.org/10.1111/1752-1688.12568). _Excellent example of sharing diverse datasets associated with a project._
@@ -34,5 +34,6 @@ I am committed to open science research -- meaning taking every step to ensure o
  
 # Misc Resources on Research 
  - [The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771) by Martin Schwartz.
+ - [Naming files](https://speakerdeck.com/jennybc/how-to-name-files)
+ - [Project oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/)
  - [Creating a research brand](https://science.sciencemag.org/content/349/6249/758) by Jeff McDonnell.
- - More coming soon...
