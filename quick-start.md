@@ -24,6 +24,8 @@ For a formal literature review, in addition to Google Scholar, you may want to s
 
 To check if a journal is peer-reviewed, you can use [Ulrich's Web](https://login.ezproxy-eres.up.edu/login?url=https://ulrichsweb.serialssolutions.com/)
 
+[This tool](https://www.connectedpapers.com/) displays a visual graph of connected papers. It can be helpful when you are in the document gathering stage.
+
 # Open Science
 I am committed to working towards open science research -- meaning taking every step to ensure our work is openly shared and available as much as possible. Here are a few resources.
  - Bakker (2019). [Data-Sharing Requires Script-Sharing](http://doi.org/10.1111/gwat.12852). _A compelling argument for sharing not just data, but scripts._
