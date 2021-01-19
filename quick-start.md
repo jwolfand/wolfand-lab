@@ -10,7 +10,7 @@ I highly recommend you install a reference manager right away. I use [Mendeley](
 To access journal articles behind paywalls when you are not connected to the UP network, I recommend you connect your [Google Scholar settings to connect to Clark Library](https://libguides.up.edu/remote/resources).
 
 ## Document Storage
-We will primarily use cloud-based storage for documents such as OneDrive/Google Drive/Dropbox. Try to keep a
+We will primarily use cloud-based storage for documents such as OneDrive. Try to keep an organized file structure. It is best to set up an organized structure at the beginning of work versus trying to organize at the end. 
 
 ## Literature Review
 Conducting a literature review on your topic is typically the first step in research. This review can take different shapes but it is essential to have an understanding what has been done in the field and what questions are still out there. 
