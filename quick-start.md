@@ -2,7 +2,7 @@
 Welcome to academic research! It is nothing like you've done in class - little guidance, no right answers, which is why I love it. I hope you learn to love it too. 
 
 ## Research Guidelines
-If you haven't already, you should read my guidelines for undergraduate researchers. This helps both me and you set guidelines and expectations for your research. 
+If you haven't already, you should read the syllabus and/or guidelines for undergraduate researchers I provided. This helps both me and you set guidelines and expectations for your research. 
 
 ## Reference Manager
 I highly recommend you install a reference manager right away. I use [Mendeley](https://www.mendeley.com/?interaction_required=true), but there are others. 
