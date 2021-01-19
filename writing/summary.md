@@ -16,7 +16,8 @@ Writing is research! Establishing a regular writing habit is essential. If you a
 - Kosslyn, S.M. 2002. [Authorship Criteria](https://kosslynlab.fas.harvard.edu/files/kosslynlab/files/authorship_criteria_nov02.pdf)
 - Kennedy, D. 1985. [Academic Authorship](https://doresearch.stanford.edu/policies/research-policy-handbook/conduct-research/academic-authorship#anchor-2295)
 
-
+## Writing Style
+The UP library has many books on technical writing and style. See some examples [here.](https://libguides.up.edu/egr483/cite)  
 ## Submission
 Before you submit your paper:
 - What journal is the best fit? Where are other papers that you cite published?
