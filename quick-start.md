@@ -10,10 +10,14 @@ I highly recommend you install a reference manager right away. I use [Mendeley](
 To access journal articles behind paywalls when you are not connected to the UP network, I recommend you connect your [Google Scholar settings to connect to Clark Library](https://libguides.up.edu/remote/resources).
 
 ## Document Storage
-We will primarily use cloud-based storage for documents such as OneDrive. Try to keep an organized file structure. It is best to set up an organized structure at the beginning of work versus trying to organize at the end. 
+We will primarily use cloud-based storage for documents such as OneDrive. Try to keep an organized file structure. It is best to set up an organized structure at the beginning of work versus trying to organize at the end. Tips for filenames:
+- A good format for date designations is YYYYMMDD or YYMMDD. This format makes sure all of your files stay in chronological order, even over the span of many years.
+- Try not to make file names too long, since long file names do not work well with all types of software.
+- Do not use spaces. Other options include underscores (e.g., file_name.docx) and dashes (e.g., file-name.docx)
+- Avoid special characters such as  ~ ! @ # $ % ^ & *
 
 ## Literature Review
-Conducting a literature review on your topic is typically the first step in research. This review can take different shapes but it is essential to have an understanding what has been done in the field and what questions are still out there. 
+Conducting a literature review on your topic is typically the first step in research. A literature review summarizes what has been done in the specific field you are researching and puts your work into context. This review can take different shapes but it is essential to have an understanding what has been done in the field and what questions are still out there. Some resources:
 
 - Pacheco-Vega, R. (2016). [Literature Reviews](http://www.raulpacheco.org/resources/literature-reviews/). _Several blog posts about the literature review process, including the AIC (Abstract, Intro, Conclusion) reading method._ 
 
