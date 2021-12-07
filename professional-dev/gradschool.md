@@ -30,7 +30,7 @@ Your statement of purpose tells the graduate school why and how you are a good f
 ## Recommendation Letters
 You will need recommendation letters from supervisors and/or professors. Be sure to reach out well in advance of the deadline. Resources on how to ask for and get good recommendation letters is coming soon. 
 # Reach out to Faculty
-Interested in a research-based graduate program (M.S. or Ph.D.)? It is important you reach out to faculty who you would enjoy doing research with in advance. [Here](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) is more information on contacting faculty. 
+Interested in a research-based graduate program (M.S. or Ph.D.)? It is important you reach out to faculty who you would enjoy doing research with in advance. [Here](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) is more information on contacting faculty. [Here](https://futurerockdoc.com/blog/2021/11/20/questions-you-should-ask-a-potential-graduate-school-adviser) are some questions to ask a potential faculty advisor.
 # Apply 
 I recommend you apply to no more than 5 schools (and even that is a lot!). 
 # Go
